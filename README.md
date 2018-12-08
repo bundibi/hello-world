@@ -1,2 +1,2 @@
 # hello-world
-folsav
+Ez a gyakorlat egy dolgozat elkészítéséhez kell
